@@ -64,7 +64,7 @@ Após conclusão de todos os processos anteriores, o último passo foi rodar o c
 
 
 
-![image2](https://raw.githubusercontent.com/Viniciusneri1/projeto-recomenda-es-de-filmes/main/img2.png)
+![image2](https://github.com/Viniciusneri1/projeto-recomenda-es-de-filmes/blob/main/img4.png)
 .
 
 
