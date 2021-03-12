@@ -33,6 +33,8 @@ usando metodologias e tecnicas que foram aprendidas durante o curso.
 Após selecionar os datasets que seriam usados no projeto, foram feitas análises nos respectivos para
 filtrar apenas os dados que teriam relevância no decorrer do projeto.
 
+![image](https://raw.githubusercontent.com/Viniciusneri1/projeto-recomenda-es-de-filmes/main/img3.png)
+
 ## Machine Learning 
 
 ### Semelhança de cossenos - Como funciona:
