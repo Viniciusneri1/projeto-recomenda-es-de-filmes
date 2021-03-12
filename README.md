@@ -55,7 +55,7 @@ A semelhança do cosseno é vantajosa porque, mesmo que os dois documentos semel
 
 ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
 
-[Semelhanca de cossenos](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+[Semelhança de cossenos - Entendendo a matemática e como funciona](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 
 ## Streamlit:
