@@ -33,7 +33,7 @@ usando metodologias e técnicas que foram aprendidas durante o curso.
 Após selecionar os datasets que seriam usados no projeto, foram feitas análises nos respectivos para
 filtrar apenas os dados que teriam relevância no decorrer do projeto.
 
-![image3](https://raw.githubusercontent.com/Viniciusneri1/projeto-recomenda-es-de-filmes/main/img3.png)
+![image4](https://github.com/Viniciusneri1/projeto-recomenda-es-de-filmes/blob/main/img4.png)
 
 ## Machine Learning 
 
@@ -65,8 +65,7 @@ Após conclusão de todos os processos anteriores, o último passo foi transferi
 
 
 
-![image2](https://github.com/Viniciusneri1/projeto-recomenda-es-de-filmes/blob/main/img4.png)
-.
+![image2](https://raw.githubusercontent.com/Viniciusneri1/projeto-recomenda-es-de-filmes/main/img2.png)
 
 
 
