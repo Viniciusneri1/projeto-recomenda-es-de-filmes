@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img src="https://giphy.com/gifs/hero0fwar-karmawhore-rhyming-g9582DNuQppxC">
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif">
 </p>
