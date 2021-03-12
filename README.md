@@ -2,7 +2,7 @@
 
 
 
-# Projeto final | Sistema de Recomendacao de Filmes 🎬
+# Projeto final | Sistema de Recomendação de Filmes 🎬
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 # Descrição
 
 O intuito do projeto foi criar, a partir de um dataset, um sistema de recomendação de filmes para o usuário
-usando metodologias e tecnicas que foram aprendidas durante o curso.
+usando metodologias e técnicas que foram aprendidas durante o curso.
 
 
 # Pré-requisito
@@ -60,7 +60,7 @@ A semelhança do cosseno é vantajosa porque, mesmo que os dois documentos semel
 
 ## Streamlit:
 
-Após conclusão de todos os processos anteriores, o último passo foi rodar o código no streamlit para criação da aplicacão Web.
+Após conclusão de todos os processos anteriores, o último passo foi transferir o código para o streamlit para criação da aplicacão Web.
 
 
 
