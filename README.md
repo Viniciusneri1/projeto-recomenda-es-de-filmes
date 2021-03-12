@@ -62,6 +62,7 @@ Após conclusão de todos os processos anteriores, o último passo foi rodar o c
 
 
 
+![image2](https://raw.githubusercontent.com/Viniciusneri1/projeto-recomenda-es-de-filmes/main/img2.png)
 
 
 
@@ -69,11 +70,16 @@ Após conclusão de todos os processos anteriores, o último passo foi rodar o c
 
 
 
+## Agradecimentos:
 
-## Agradecimentos
 Raiana Rocha
+
 Yuri Felix
+
 Diego Dias
+
 Matheus Zavagli
+
 Pedro Felix
+
 Pedro Prado
