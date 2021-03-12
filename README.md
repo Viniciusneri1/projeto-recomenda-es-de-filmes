@@ -41,7 +41,9 @@ Matematicamente, ele mede o cosseno do ângulo entre dois vetores projetados em 
 A semelhança do cosseno é vantajosa porque, mesmo que os dois documentos semelhantes estejam distantes pela distância euclidiana
 (devido ao tamanho do documento), é provável que eles ainda estejam orientados mais próximos. Quanto menor o ângulo, maior a similaridade do cosseno.
 
-[Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
+
+[Semelhanca de cossenos](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 # Pontuação de semelhança:
 Como ele decide qual item é mais semelhante ao item que o usuário gosta? Aqui usamos as pontuações de similaridade.
