@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img src="https://https://giphy.com/gifs/OnceInHollywood-leonardo-dicaprio-leo-kd9BlRovbPOykLBMqXid=giphy.gif">
+  <img src="https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif">
 </p>
