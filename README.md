@@ -37,6 +37,15 @@ filtrar apenas os dados que teriam relevância no decorrer do projeto.
 
 ## Machine Learning 
 
+### Pontuação de semelhança:
+
+Como ele decide qual item é mais semelhante ao item que o usuário gosta? Aqui usamos as pontuações de similaridade.
+
+É um valor numérico que varia de zero a um, que ajuda a determinar o quanto dois itens são semelhantes entre si em uma escala de zero a um.
+Esse escore de similaridade é obtido medindo-se a similaridade entre os detalhes do texto de ambos os itens.
+Portanto, a pontuação de semelhança é a medida de semelhança entre dados de texto de dois itens. Isso pode ser feito por semelhança de cosseno.
+
+
 ### Semelhança de cossenos - Como funciona:
 
 Similaridade de cosseno é uma métrica usada para medir o quão semelhantes os dados são, independentemente de seu tamanho.
@@ -47,14 +56,6 @@ A semelhança do cosseno é vantajosa porque, mesmo que os dois documentos semel
 ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
 
 [Semelhanca de cossenos](https://www.machinelearningplus.com/nlp/cosine-similarity/)
-
-### Pontuação de semelhança:
-
-Como ele decide qual item é mais semelhante ao item que o usuário gosta? Aqui usamos as pontuações de similaridade.
-
-É um valor numérico que varia de zero a um, que ajuda a determinar o quanto dois itens são semelhantes entre si em uma escala de zero a um.
-Esse escore de similaridade é obtido medindo-se a similaridade entre os detalhes do texto de ambos os itens.
-Portanto, a pontuação de semelhança é a medida de semelhança entre dados de texto de dois itens. Isso pode ser feito por semelhança de cosseno.
 
 
 ## Streamlit:
